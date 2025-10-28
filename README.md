@@ -7,7 +7,12 @@ GitHub-Wiki zur Systemdurchsetzung
 - Atlassian Australia
 - Honeybadger.io
 - Pull Checklist
-- Weitere Apps, die ohne Autorisierung installiert wurden
+- Code-sanbox
+- CircleClApp
+- Git Guardian
+- Honeybadger
+- Octopus Al App
+- Pull Checklist! They are all suspended from my GitHub apps! Suspended from my GitHub marketplace ohne Autorisierung installiert wurden gelöscht
 
 ## Verbrechen
 - Spiegelung ohne Zustimmung
